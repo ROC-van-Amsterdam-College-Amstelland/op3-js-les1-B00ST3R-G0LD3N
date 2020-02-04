@@ -25,3 +25,34 @@ body, html{
     font-size: 20px;
 }
 
+#light-top{
+
+    background-color: red;
+    flex-direction: column;
+    padding:10px;
+    width: 80px;
+    height: 90px;
+}
+
+
+#light-middle{
+
+    background-color: orange;
+    flex-direction: column-reverse;
+    padding:10px;
+    width: 80px;
+    height: 85px;
+    
+}
+
+
+#light-bottom{
+
+    background-color: green;
+    flex-direction: row-reverse;
+    padding:10px;
+    width: 80px;
+    height: 90px;
+    
+
+}
